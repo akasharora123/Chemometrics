@@ -1,0 +1,7 @@
+# Chemometric Methods
+
+Chemometric methods consist of a group of statistical models (regression and classification) that are applied to material-characterization data to gain useful insights such as finding adulterants in foods and checking the quality of pharmaceuticals. Materials/chemicals are often characterized by spectroscopy techniques (FTIR and mid-IR) which consist of a series of radiation intensities emitted at specific wavelengths. These radiations indicate the different type of chemical moieties/groups present in the material, and thus the whole spectrum is a characteristic (type) of the material being measured. In other words, these spectrums provide information to differentiate (or classify) the different type of materials. 
+
+Similar to the other statistical analysis, the chemometric analysis also begins with exploratory data analysis (EDA) using unsupervised methods (clustering and dimensionality-reduction) to identify different groups in the data. In particular to spectroscopy data, the intensities measured at different wavelengths are highly correlated and so the one-to-one mapping between spectrum and material-type is quite difficult. Hence, the most fundamental step in EDA is to use dimensionality-reduction techniques, primarily principal component analysis (PCA) to map the set of raw variables (intensities at different wavelengths) into a set of latent variables (linear combination of intensities at different wavelength) that help distinguishing different materials. 
+ 
+
