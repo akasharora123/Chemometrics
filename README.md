@@ -9,5 +9,5 @@ Similar to the other statistical analysis, the chemometric analysis also begins 
 # Examples
 Below are the some of the examples of chemometric analysis
 
-- Coffee Variants: Spectrum of two types of coffee, Arabica and Robusta, are measured by  Downey *et al.* (*J. Agric. Food. Chem.* 1997, 45, 4357-4361). Using LDA, K-nearest neighbors (KNN) clustering, and neighborhood component analysis (NCA), the two variants of coffee are differentiated. 
+- Coffee Variants: Spectrum of two types of coffee, Arabica and Robusta, are measured by  Downey *et al.* (*J. Agric. Food. Chem.* 1997, 45, 4357-4361). Using LDA the two variants of coffee are differentiated. 
 - More coming soon.
