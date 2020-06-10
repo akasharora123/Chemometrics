@@ -13,6 +13,8 @@ Below are the two examples of chemometric analysis
 - Geographic origin of olive oils: Applied PCA and LDA on the measured infrared spectrum of olive oils to identify the country of origin for different varieties. Data source: Tapp *et al., J. Agric. Food Chem.*, Vol. 51, No. 21, 2003.
 
 
-## 2. Software Requirements
-
--- Python, Pnadas, Numpy, and Scikit-learn.
+## 2. Prerequisites
+- Python
+- Pnadas
+- Numpy
+- Scikit-learn
