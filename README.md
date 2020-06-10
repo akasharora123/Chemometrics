@@ -1,4 +1,5 @@
 ## Dimensionality reduction tools for multivariate analysis
+-----------------------------------------------------------
 
 ## 1. Overview
 Chemometric methods consist of a group of statistical models (regression and classification) that are applied to material-characterization data to gain useful insights such as finding adulterants in foods and checking the quality of pharmaceuticals. Materials/chemicals are often characterized by spectroscopy techniques (FTIR and mid-IR) which consist of a series of radiation intensities emitted at specific wavelengths. These radiations indicate the different type of chemical moieties/groups present in the material, and thus the whole spectrum is a characteristic (type) of the material being measured. In other words, these spectrums provide information to differentiate (or classify) the different type of materials. 
