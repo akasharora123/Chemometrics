@@ -1,4 +1,4 @@
-## Dimensionality reduction tools for multivariate analysis
+## Chemometric methods for spectroscopy data analysis
 -----------------------------------------------------------
 
 ## 1. Overview
