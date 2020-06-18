@@ -14,6 +14,7 @@ Below are the two examples of chemometric analysis used in this study:
 
 
 ## 2. Prerequisites
+
 • Python
 • Pandas
 • NumPy
