@@ -1,4 +1,4 @@
-# Chemometric methods for spectroscopy data analysis
+## Chemometric methods for spectroscopy data analysis
 ---
 
 ## 1. Overview
@@ -18,6 +18,7 @@ Below are the two examples of chemometric analysis used in this study:
 • Python
 • Pandas
 • NumPy
-• MatplotLib & sns
+• Seaborn
+• MatplotLib
 • Scikit-learn
 
