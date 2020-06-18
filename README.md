@@ -1,4 +1,4 @@
-## Chemometric methods for spectroscopy data analysis
+Chemometric methods for spectroscopy data analysis
 -----------------------------------------------------------
 
 ## 1. Overview
