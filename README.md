@@ -19,4 +19,3 @@ Below are the two examples of chemometric analysis used in this study:
 • NumPy
 • Scikit-learn
 
----
