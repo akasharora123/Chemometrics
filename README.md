@@ -18,5 +18,6 @@ Below are the two examples of chemometric analysis used in this study:
 • Python
 • Pandas
 • NumPy
+• MatplotLib & sns
 • Scikit-learn
 
