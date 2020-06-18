@@ -12,7 +12,7 @@ Similar to the other statistical analysis, the chemometric analysis also begins 
 • Geographic origin of olive oils: Applied PCA and LDA on the measured infrared spectrum of olive oils to identify the country of origin for different varieties. Data source: Tapp *et al., J. Agric. Food Chem.*, Vol. 51, No. 21, 2003.
 
 
-## 2. Prerequisites
+## Prerequisites
 
 • Python
 • Pandas
