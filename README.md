@@ -1,4 +1,4 @@
-# Chemometric Analysis
+# Chemometrics
 Multivariate analysis for spectroscopy data
 
 ## Overview
